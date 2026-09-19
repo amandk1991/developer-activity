@@ -1,0 +1,52 @@
+{
+  "backend": [
+    "Review API error handling",
+    "Document an API endpoint",
+    "Review request validation",
+    "Improve backend logging",
+    "Review database query patterns",
+    "Document backend architecture"
+  ],
+  "frontend": [
+    "Review component structure",
+    "Improve UI documentation",
+    "Review accessibility considerations",
+    "Document frontend architecture",
+    "Review state management patterns"
+  ],
+  "devops": [
+    "Review CI/CD configuration",
+    "Review GitHub Actions workflow",
+    "Document deployment procedure",
+    "Review environment configuration",
+    "Review repository automation"
+  ],
+  "security": [
+    "Review dependency security",
+    "Review secret-handling practices",
+    "Document security considerations",
+    "Review authentication flow",
+    "Review authorization boundaries"
+  ],
+  "documentation": [
+    "Improve project README",
+    "Document project setup",
+    "Document development workflow",
+    "Review contribution guidelines",
+    "Document project architecture"
+  ],
+  "testing": [
+    "Review test coverage",
+    "Identify missing edge cases",
+    "Document testing strategy",
+    "Review integration-test structure",
+    "Review error-path testing"
+  ],
+  "architecture": [
+    "Review module boundaries",
+    "Document architectural decisions",
+    "Review dependency relationships",
+    "Identify potential technical debt",
+    "Review project structure"
+  ]
+}
